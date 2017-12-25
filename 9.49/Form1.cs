@@ -11,7 +11,7 @@ using ToolsGrid;
 using tools;
 
 namespace _9._49
-{
+{ //Дана матрица N×M. Определить четные элементы, имеющие нечетную сумму индексов. Показать индексы этих элементов.
     public partial class Form1 : Form
     {
         public Form1()

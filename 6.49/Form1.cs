@@ -11,6 +11,7 @@ using tools;
 
 namespace _6._49
 {
+    // Условие: 1/(1-x)^2=1+2*x+3*x^2+4*x^3+5*x^4+...(R=1)
     public partial class Form1 : Form
     {
         public Form1()

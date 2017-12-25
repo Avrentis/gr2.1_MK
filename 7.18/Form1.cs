@@ -11,6 +11,7 @@ using tools;
 
 namespace _7._18
 {
+    //Дан целочисленный массив размера N. Преобразовать массив, увеличив1|уменьшив2 каждую его серию на один элемент.
     public partial class Form1 : Form
     {
         public Form1()
