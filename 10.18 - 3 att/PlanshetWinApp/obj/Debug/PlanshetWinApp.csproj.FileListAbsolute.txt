@@ -1,0 +1,26 @@
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\bin\Debug\PlanshetWinApp.exe.config
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\bin\Debug\PlanshetWinApp.exe
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\bin\Debug\PlanshetWinApp.pdb
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\bin\Debug\PlanshetModule.dll
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\bin\Debug\PlanshetModule.pdb
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\obj\Debug\PlanshetWinApp.csprojResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\obj\Debug\PlanshetWinApp.Form1.resources
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\obj\Debug\PlanshetWinApp.Properties.Resources.resources
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\obj\Debug\PlanshetWinApp.csproj.GenerateResource.Cache
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\obj\Debug\PlanshetWinApp.exe
+c:\users\евгений\documents\visual studio 2015\Projects\PlanshetWinApp\PlanshetWinApp\obj\Debug\PlanshetWinApp.pdb
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetWinApp\bin\Debug\PlanshetWinApp.exe.config
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetWinApp\obj\Debug\PlanshetWinApp.exe
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetWinApp\obj\Debug\PlanshetWinApp.pdb
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\bin\Debug\PlanshetWinApp.exe.config
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\bin\Debug\PlanshetWinApp.exe
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\bin\Debug\PlanshetWinApp.pdb
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\bin\Debug\PlanshetModule.dll
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\bin\Debug\PlanshetModule.pdb
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\obj\Debug\PlanshetWinApp.csprojResolveAssemblyReference.cache
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\obj\Debug\PlanshetWinApp.Form1.resources
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\obj\Debug\PlanshetWinApp.Properties.Resources.resources
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\obj\Debug\PlanshetWinApp.csproj.GenerateResource.Cache
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\obj\Debug\PlanshetWinApp.csproj.CoreCompileInputs.cache
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\obj\Debug\PlanshetWinApp.exe
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetWinApp\obj\Debug\PlanshetWinApp.pdb

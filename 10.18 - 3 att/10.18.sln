@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanshetWinApp", "PlanshetWinApp\PlanshetWinApp.csproj", "{0A778E63-FB41-4898-9237-316564CB766D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanshetModule", "PlanshetModule\PlanshetModule.csproj", "{0D7E2BC1-E246-46B9-8FDF-BEDE8B5CD170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanshetConsoleApp", "PlanshetConsoleApp\PlanshetConsoleApp.csproj", "{9C58D6EE-149E-41CA-AC80-B490E578A804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A778E63-FB41-4898-9237-316564CB766D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A778E63-FB41-4898-9237-316564CB766D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A778E63-FB41-4898-9237-316564CB766D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A778E63-FB41-4898-9237-316564CB766D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7E2BC1-E246-46B9-8FDF-BEDE8B5CD170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7E2BC1-E246-46B9-8FDF-BEDE8B5CD170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7E2BC1-E246-46B9-8FDF-BEDE8B5CD170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7E2BC1-E246-46B9-8FDF-BEDE8B5CD170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C58D6EE-149E-41CA-AC80-B490E578A804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C58D6EE-149E-41CA-AC80-B490E578A804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C58D6EE-149E-41CA-AC80-B490E578A804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C58D6EE-149E-41CA-AC80-B490E578A804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

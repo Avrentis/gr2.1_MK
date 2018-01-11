@@ -1,0 +1,17 @@
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetConsoleApp\bin\Debug\PlanshetConsoleApp.exe.config
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetConsoleApp\bin\Debug\PlanshetConsoleApp.exe
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetConsoleApp\bin\Debug\PlanshetConsoleApp.pdb
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetConsoleApp\bin\Debug\PlanshetModule.dll
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetConsoleApp\bin\Debug\PlanshetModule.pdb
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetConsoleApp\obj\Debug\PlanshetConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetConsoleApp\obj\Debug\PlanshetConsoleApp.exe
+C:\Users\genets\Desktop\PlanshetWinApp\PlanshetWinApp\PlanshetConsoleApp\obj\Debug\PlanshetConsoleApp.pdb
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetConsoleApp\bin\Debug\PlanshetConsoleApp.exe.config
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetConsoleApp\bin\Debug\PlanshetConsoleApp.exe
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetConsoleApp\bin\Debug\PlanshetConsoleApp.pdb
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetConsoleApp\bin\Debug\PlanshetModule.dll
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetConsoleApp\bin\Debug\PlanshetModule.pdb
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetConsoleApp\obj\Debug\PlanshetConsoleApp.csprojResolveAssemblyReference.cache
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetConsoleApp\obj\Debug\PlanshetConsoleApp.csproj.CoreCompileInputs.cache
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetConsoleApp\obj\Debug\PlanshetConsoleApp.exe
+E:\att2-3\gr2.1_MK\10.18 - 3 att\PlanshetConsoleApp\obj\Debug\PlanshetConsoleApp.pdb
